@@ -1,0 +1,52 @@
+.cls{
+    font-family: "Kodchasan", sans-serif;
+ font-size:20px;
+    width: 100%;
+}
+
+.cls p{
+    padding: 2% 2%;
+ }
+
+.cls h2{
+    padding: 0% 2%;
+}
+
+
+
+.cls p1{
+    color: #808080;
+    padding: 0% 2%;
+}
+
+.hd{
+
+    border:1px solid #afacac;
+    border-radius: 22px;
+    padding: 3%;
+    width: 80%;
+    margin: 0 auto;
+    gap:20%;
+}
+
+.sp{
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%; 
+}
+
+.border{
+
+ display: flex;
+    flex-direction: row;
+    margin: 2% auto;
+    justify-content: center;
+    gap: 1%;
+    
+   
+}
+
+.con{
+    padding: 0% 2%;
+}

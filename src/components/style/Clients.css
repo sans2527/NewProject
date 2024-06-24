@@ -1,0 +1,32 @@
+.main{
+    width: 85%;
+    color:#808080;
+     font-family: "Kodchasan", sans-serif;
+     margin: 0px auto;
+     display:flex;
+     flex-direction:row;
+     gap:25%;
+
+  
+   
+}
+
+.pie{
+    display:flex;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+   
+}
+
+ .const {
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%; 
+}
+
+.main p{
+     margin-top: 5%;
+}
+

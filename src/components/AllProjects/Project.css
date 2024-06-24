@@ -1,0 +1,93 @@
+.pjct{
+
+    width: 85%;
+    color: #808080;
+    font-family: "Kodchasan", sans-serif;
+    margin: 3% 8%;
+}
+
+.pct{
+    display: flex;
+    width: 85%;
+    margin:auto;
+    justify-content: space-between;
+    margin-top: 3%;
+    
+}
+.pct h2 {
+    margin-left: 5%;
+    font-family: "Kodchasan", sans-serif;
+    color:#535353;
+}
+
+.ig{
+    display: flex;
+    margin:0% 8% ;
+    justify-content: space-between;
+    width: 85%;
+    margin-top: 3%;
+}
+
+.ig h2{
+    margin-left: 5%;
+    font-family: "Kodchasan", sans-serif;
+    color:#535353;
+}
+
+.render{
+    display: flex;
+    margin:0% 8% ;
+    justify-content: space-between;
+    width: 85%;
+    margin-top: 3%;
+}
+
+.render h2 {
+    margin-left: 5%;
+    font-family: "Kodchasan", sans-serif;
+    color:#535353;
+}
+
+.divider{
+
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%;
+}
+
+.webprojects{
+    width: 85%;
+    color: #808080;
+    font-family: "Kodchasan", sans-serif;
+    margin: 3% 8%;
+
+
+}
+
+.point{
+    display: flex;
+     width: 85%;
+    margin:auto;
+    justify-content: space-between;
+    margin-top:  3%;
+    
+
+}
+
+.point h2{
+
+   
+    margin-top:4%;
+    font-family: "Kodchasan", sans-serif;
+    margin: 5%;
+}
+
+.lin{
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%;
+}
+
+

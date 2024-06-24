@@ -1,0 +1,21 @@
+.picture{
+    display: flex;
+    height: 30%;
+    /* width: 50%; */
+    overflow-x: scroll;
+    scrollbar-width: none;
+    gap: 2%;
+
+    flex-wrap: nowrap;
+    margin: 2% 0%;
+}
+
+.photo{
+    display:flex;
+    height: 30%;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+    gap:2%
+
+}

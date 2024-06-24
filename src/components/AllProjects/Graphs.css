@@ -1,0 +1,47 @@
+.head{
+    width: 85%;
+    font-family: "Kodchasan", sans-serif;  
+     display: flex;
+     flex-direction: column; 
+     margin-top: 3%;
+    
+}
+
+.head p{
+    color: #808080;
+
+}
+.log {
+    width: 30%;
+    color:#303030;
+    font-family: "Kodchasan", sans-serif;
+}
+
+.log p{
+ font-size: larger;
+ padding: 3%;
+}
+
+
+.graphicproject{
+    display: flex;
+    margin:3% auto;
+    justify-content: space-between;
+    width: 85%;
+}
+
+.graphicprojects{
+
+    display: flex;
+    margin:3% auto;
+    justify-content: space-between;
+    width: 85%;
+}
+
+.end2{
+     border-top: 1px solid #303030;
+     display: flex;
+     margin: 50px auto;
+     width: 85%;
+}
+

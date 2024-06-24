@@ -1,0 +1,94 @@
+.contain{
+    width: 85%;
+    color: #0a0a0a;
+    font-family: "Kodchasan", sans-serif;
+    margin: 0% 8%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.contain p{
+    width: 45%;
+    margin-left: 45%;
+}
+
+.con{
+    margin:1% 8%;
+    font-family: "Kodchasan", sans-serif;
+}
+
+.tain{
+    margin:0% 8%;
+    font-family: "Kodchasan", sans-serif;
+
+}
+.photos {
+    width: 85%;
+    margin: 3% auto;
+    display: flex;
+    flex-direction:row;
+}
+
+.column1{
+    display: flex;
+    flex-direction: column;
+   gap:20px;
+}
+
+.column2{
+    display: flex;
+    flex-direction: column;
+   gap:20px;
+   margin-left: 3%;
+}
+
+.column3{
+    display: flex;
+    flex-direction: column;
+   gap:20px;
+   margin-left: 3.5%;
+}
+
+.seprators{
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%;
+   
+}
+
+
+.webpage{
+    width: 85%;
+    margin: 0% auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.web{
+
+    width: 50%;
+    font-family: "Kodchasan", sans-serif;
+    
+}
+.web p {
+    margin-top: 6%;
+    font-size: large;
+    color: gray;
+}
+
+.page {
+    width: 45%;
+    /* background-color: rgb(218, 198, 23); */
+
+}
+
+.divide{
+    border-top: 1px solid #303030;
+    display: flex;
+    margin: 50px auto;
+    width: 85%;
+}
